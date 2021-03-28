@@ -168,10 +168,3 @@ img {
                      fill: currentColor;
                      overflow: hidden;
                   }
-
-                   /*聊天区框大小*/
-                   .tk-input[data-v-619b4c52]
-                     .el-textarea__inner
-                       min-height 210px!important
-                       &:focus
-                         background-image: none !important
