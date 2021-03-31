@@ -54,9 +54,9 @@ img {
   /* --card-bg: #121212; */
   --card-bg: #12121288;
   --btn-hover-color: #787878;
-  --btn-bg: #1f1f1f;
+  --btn-bg: #333232cc;
   --btn-hover-color: #ff3f3f;
-  --btn-bg: #000;
+  --btn-bg: #333232cc;
   --page-number-background-color:: #44464580;
   /* --font-color: rgba(255,255,255,0.7); */
   /* --hr-border: rgba(255,255,255,0.4); */
@@ -67,11 +67,11 @@ img {
   /* 白天的效果 */
 [data-theme="light"] {
   /* --card-bg: #121212; */
-  --card-bg: #ffffff40;
-  --btn-hover-color: #787878;
-  --btn-bg: #4c49487d;
+  --card-bg: #ffffffd6;
+  --btn-hover-color: #0f0f0f70;
+  --btn-bg: #7b797969;
   --btn-hover-color: #fdfdfd70;
-  --btn-bg: #4c49487d;
+  --btn-bg: #7b797969;
   /* --font-color: rgba(255,255,255,0.7); */
   /* --hr-border: rgba(255,255,255,0.4); */
   --font-color: #4c4948;
