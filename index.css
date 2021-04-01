@@ -4,6 +4,7 @@ if hexo-config('css_prefix')
   @import 'https://cdn.jsdelivr.net/gh/HopeLight/css/bbc.css'
   @import '//at.alicdn.com/t/font_2459986_78vfvcli6bu.css'
   @import 'https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css'
+  @import 'https://cdn.jsdelivr.net/gh/HopeLight/css/blog.css'
 @import '_third-party/normalize.min.css'
 // project
 @import 'var'
