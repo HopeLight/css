@@ -224,22 +224,7 @@ img {
                   background: rgba(0, 0, 0, 0.5)!important;
                   color: #ffffff;
                   }
-
-                /*时间轴自定义*/
-                  svg.icon {
-                    /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */
-                     width: 1em; height: 1em;
-                     /* width和height定义图标的默认宽度和高度*/
-                     vertical-align: -0.15em;
-                     fill: currentColor;
-                     overflow: hidden;
-                  }
-
                    /*聊天区框大小*/
-                   .tk-input[data-v-619b4c52]
-                     .el-textarea__inner{
-                       min-height: 210px !important;
-                     }
-                     .el-textarea__inner:focus{
-                         background-image: none !important;
-                      }
+                   .tk-input[data-v-619b4c52] .el-textarea__inner {
+                       min-height: 165px!important;
+                   }
