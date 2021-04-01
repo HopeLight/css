@@ -30,6 +30,16 @@
           default;
   }
 
+  /* 阿里样式 */
+.icon {
+   width: 1em; height: 1em;
+   /* width和height定义图标的默认宽度和高度*/
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+
+
     /* 版权字体 */
   .post-copyright {
       font-family: 'aqqxs', sans-serif;
