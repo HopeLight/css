@@ -69,6 +69,25 @@ color: #423851;
 color: #ff5c7a;
 }
 
+/*Gitee单色 */
+.icon-gitee-fill-round{
+color: #c71d23;
+}
+
+/*邮箱单色 */
+.icon-youxiang{
+color: #facc31;
+}
+
+/*网易云*/
+.icon-yinle{
+color: #f55e55;
+}
+
+/*b站*/
+.icon-bilibili-line{
+color: #22afe5;
+}
 
 /* 鼠标样式 */
 body {
