@@ -1,7 +1,29 @@
-/*搜索单色 */
-.fa-fw{
-color: #cddd94;
+@font-face{
+    font-family:'HopeBlog' ;  /* 字体名自定义即可 */
+    src:url('https://cdn.jsdelivr.net/gh/HopeLight/css/taotao.ttf'); /* 字体文件路径 */
+    font-display : swap;
 }
+
+h1,h2,h3,h4,h5,h6,
+a#site-name,span#subtitle,a.site-page,
+a.title,
+#aside-content,
+a.article-sort-item-title,
+a.article-title,
+a.categoryBar-list-link,
+a.blog-slider__title,
+.article-sort-title,
+.tag-cloud-title,
+.category-title,
+a.category-list-link {
+    font-family: 'HopeBlog', sans-serif;
+}
+/*搜索单色 */
+.post-copyright {
+    font-family: 'HopeBlog', sans-serif;
+    font-size: large
+}
+
 
 /*首页单色 */
 .icon-A{
@@ -39,8 +61,8 @@ color: #f19149;
 }
 
 /*音乐单色 */
-.icon-icon-yinle1{
-color: #76c2af;
+.icon-yinle1{
+color: #f45d5d;
 }
 
 /*追番单色 */
@@ -133,8 +155,8 @@ color: #22afe5;
     background: transparent!important;
     }
 
-    /*音乐播放器侧栏按钮缩进*/
-    #fixedElement{
+  /*音乐播放器侧栏按钮缩进*/
+  #fixedElement{
       position: fixed;
       width: 60px
       /* 假定宽度是60px */
