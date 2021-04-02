@@ -68,12 +68,6 @@ color: #f55e55;
 color: #22afe5;
 }
 
-  /* 版权字体 */
-.post-copyright {
-    font-family: 'aqqxs', sans-serif;
-    font-size: large
-}
-
   /* 黑夜效果 */
 #hidden_element{
   display: none!important;
